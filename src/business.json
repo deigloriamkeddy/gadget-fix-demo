@@ -1,0 +1,58 @@
+{
+  "slug": "gadget-fix",
+  "short": "gadget fix",
+  "tag": "DEVICE REPAIR / KENT",
+  "layout": "technical",
+  "accent": "#2958cc",
+  "paper": "#eef2f9",
+  "dark": "#101c32",
+  "title": "Broken device?",
+  "italic": "Let\u2019s talk repair.",
+  "intro": "Cracked screen, tired battery, or something harder to explain? Start with your device and what went wrong. We\u2019ll help you ask the right questions.",
+  "hero": "phone",
+  "photos": [
+    "devices",
+    "phone"
+  ],
+  "services": [
+    [
+      "Screen issues",
+      "Cracks, display problems, or a touch screen that isn\u2019t responding."
+    ],
+    [
+      "Battery & charging",
+      "Describe battery drain, charging trouble, or an unreliable connection."
+    ],
+    [
+      "Tablets",
+      "Tell us the model and what you\u2019re seeing."
+    ],
+    [
+      "Computers",
+      "Start a conversation about laptop or desktop repair options."
+    ]
+  ],
+  "story": "Less guessing. A clearer next step.",
+  "storyText": "A useful repair inquiry starts with the make, model, and symptoms. This concept gathers those details before a conversation about repair options, parts, and cost.",
+  "cta": "Start a repair inquiry",
+  "galleryTitle": "Everyday tech. Worth a second look.",
+  "filters": [
+    "All",
+    "Devices"
+  ],
+  "source": "https://www.waze.com/live-map/directions/us/wa/tukwila/gadget-fix?to=place.ChIJqa0rNbhdkFQR_tPOuXsT5Os",
+  "findings": "Waze corroborates 6644 S 196th St and 425-666-9090. The unit comes from the PDD. Similar Gadget Fix brands exist elsewhere; their websites, guarantees, and reviews must not be attributed to this Kent location.",
+  "questions": "Confirm unit, supported devices, diagnostics fees, parts, turnaround and warranty before publishing.",
+  "name": "Gadget Fix",
+  "city": "Kent",
+  "address": "6644 S 196th St T105, Kent, WA 98032",
+  "phone": "425-666-9090",
+  "id": 2,
+  "category": "Phone and device repair",
+  "pdd": "02_gadget_fix_PDD.pdf",
+  "gallery": [
+    "phone",
+    "devices"
+  ],
+  "date": "2026-11-03"
+}
