@@ -1,5 +1,7 @@
 # Gadget Fix — website demo
 
+[![Gadget Fix — desktop light and mobile dark preview](docs/preview.jpg)](https://local-business-demo-collection.netlify.app/gadget-fix/)
+
 An independent website concept for Gadget Fix in Kent, Washington.
 
 [View the current demo](https://local-business-demo-collection.netlify.app/gadget-fix/) · [Public source](https://github.com/deigloriamkeddy/gadget-fix-demo)
